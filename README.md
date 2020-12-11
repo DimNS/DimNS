@@ -15,5 +15,4 @@ Skills: PHP 7+ / MySQL 8+ / JS / HTML / CSS
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimns)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dimns&show_icons=true)  
