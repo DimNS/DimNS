@@ -1,8 +1,11 @@
-### Hi there 👋, My name is Dmitrii
-#### I am Fullstack web-developer
+## Hi there 👋, My name is Dmitrii
+### I am Fullstack web-developer
 ***`PHP+MySQL(80%) JS+HTML+CSS(20%)`***
 
-Skills: PHP 7+ / MySQL 8+ / JS / HTML / CSS
+## Skills
+Programming languages: PHP 7+ / Go 1.17+
+RDBMS: MySQL 8+
+Other: JS / HTML / CSS
 
 <!--
 - 🔭 I’m currently working on ...
