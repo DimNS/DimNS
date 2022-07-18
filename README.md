@@ -3,9 +3,9 @@
 ***`PHP+MySQL(80%) JS+HTML+CSS(20%)`***
 
 ## Skills
-Programming languages: PHP 7+ / Go 1.17+
-RDBMS: MySQL 8+
-Other: JS / HTML / CSS
+- Programming languages: PHP 7+ / Go 1.17+
+- RDBMS: MySQL 8+
+- Other: JS / HTML / CSS
 
 <!--
 - 🔭 I’m currently working on ...
